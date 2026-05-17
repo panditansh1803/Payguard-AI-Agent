@@ -1,0 +1,6 @@
+{
+  "name": "PayGuard AI Agent",
+  "description": "Production-ready Payment Collection AI Agent with deterministic verification and LLM-powered extraction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
