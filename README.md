@@ -24,7 +24,7 @@ A secure, LLM-powered agent for automated debt collection and payment processing
 | ACC1004 | Rahul Mehta | ₹3,200.50 | 1988-02-29 |
 
 ## Evaluation
-Run the automated evaluation suite:
+Runs 8 test scenarios and prints PASS/FAIL per scenario with a final score (e.g. 7/8 scenarios passed):
 ```bash
 tsx src/server/evaluator.ts
 ```
